@@ -1,0 +1,24 @@
+{
+  "name": "testtodo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingKazuma42/testTodo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingKazuma42/testTodo/issues"
+  },
+  "homepage": "https://github.com/KingKazuma42/testTodo#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
