@@ -19,8 +19,8 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd todo-app
+   git clone git@github.com:KingKazuma42/testTodo.git
+   cd testTodo
    ```
 
 2. Install the dependencies:
